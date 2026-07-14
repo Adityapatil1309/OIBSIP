@@ -1,33 +1,28 @@
-# Oasis Infobyte Data Analytics Internship
+# 📊 Data Analytics Projects
 
-## Intern Details
+Welcome to my **Data Analytics Projects** repository. This repository showcases projects completed using Python and popular data analysis libraries as part of my learning journey and internship experience.
 
-- Name: Aditya Shankar Patil
-- Domain: Data Analytics
-- Organization: Oasis Infobyte
+## 🚀 Projects
 
-## Completed Tasks
+### 1. Exploratory Data Analysis (EDA) on Retail Sales Data
+- Performed data cleaning and exploration
+- Analyzed sales trends and product performance
+- Created visualizations and business insights
 
-### Task 1 - EDA on Retail Sales Data
-- Performed Exploratory Data Analysis (EDA)
-- Visualized sales trends
-- Analyzed product categories
-- Created correlation heatmaps
-- Generated business insights
-
-### Task 2 - Customer Segmentation Analysis
+### 2. Customer Segmentation Analysis
 - Applied K-Means Clustering
-- Used the Elbow Method
-- Visualized customer clusters
-- Generated business insights
+- Used the Elbow Method to determine optimal clusters
+- Visualized customer segments and analyzed customer behavior
 
-### Task 3 - Data Cleaning
+### 3. Data Cleaning
 - Handled missing values
 - Removed duplicate records
+- Checked data types
 - Detected outliers
-- Exported cleaned dataset
+- Generated a cleaned dataset
 
-## Tools & Technologies
+## 🛠️ Technologies Used
+
 - Python
 - Pandas
 - NumPy
@@ -36,4 +31,9 @@
 - Scikit-learn
 - Google Colab
 
-Thank you Oasis Infobyte for this learning opportunity!
+## 📌 About
+
+This repository contains beginner-friendly data analytics and machine learning projects developed to strengthen my practical skills in data analysis, visualization, preprocessing, and predictive modeling.
+
+---
+⭐ Feel free to explore the projects and provide your feedback!
